@@ -1,0 +1,3 @@
+this is week i learn about CLI such as "cd, mkdir, mv, rm, ls"
+I also learn about git such as "add, commit, push ,pull"
+and learn about scripting in shell
