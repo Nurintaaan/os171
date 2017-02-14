@@ -1,2 +1,4 @@
 #nurintaaan
-
+Expectation for learning OS :
+    i can learn about command shell
+    i can looks like Hacker B)
