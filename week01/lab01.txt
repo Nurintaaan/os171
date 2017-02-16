@@ -20,5 +20,4 @@ drwxr-xr-x  2 nur.intan51 StafCS 4096 Feb 14 13:45 week09
 drwxr-xr-x  2 nur.intan51 StafCS 4096 Feb 14 13:46 week10
 drwxr-xr-x  2 nur.intan51 StafCS 4096 Feb 14 14:02 xtra
 /home/fasilkom/mahasiswa/n/nur.intan51/os171/week01
-Today is date +%d\ %b\ %Y\ at\ %H:%M:%S
 Today is 14 Feb 2017 at 14:31:51
