@@ -1,4 +1,14 @@
 [Week:w001]-[Date:170213]-[21]-[LR]-Read slide about introduction Operating system
-[Week:w001]-[Date:170213]-[13]-[LR]-Lecturer
-[Week:w001]-[Date:170213]-[13]-[LR]-Lecturer
-
+[Week:w001]-[Date:170214]-[13]-[LR]-Lecturer
+[Week:w001]-[Date:170214]-[13]-[LR]-Lecturer
+[Week:w001]-[Date:170214]-[14]-[LR]-Lecturer
+[Week:w001]-[Date:170214]-[15]-[PS]-Do OS Lab
+[Week:w001]-[Date:170214]-[15]-[PS]-Do OS Lab
+[Week:w001]-[Date:170215]-[21]-[LR]-Read slide about scripting
+[Week:w001]-[Date:170215]-[21]-[LR]-Read slide about scripting
+[Week:w001]-[Date:170216]-[13]-[LR]-Lecturer
+[Week:w001]-[Date:170216]-[13]-[LR]-Lecturer
+[Week:w001]-[Date:170216]-[14]-[LR]-Lecturer
+[Week:w001]-[Date:170216]-[21]-[PS]-install ubuntu and learn scripting
+[Week:w001]-[Date:170217]-[18]-[PS]-Do OS Lab
+[Week:w001]-[Date:170217]-[18]-[DS]-Discussion about OS Lab
