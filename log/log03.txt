@@ -1,1 +1,14 @@
-test
+w03-170227-21-LR-Read slide about scripting
+w03-170228-13-LR-Lecturer
+w03-170228-13-LR-Lecturer
+w03-170228-14-LR-Lecturer
+w03-170228-15-PS-Do OS Lab
+w03-170228-15-PS-Do OS Lab
+w03-170301-21-LR-Read slide about 6 stage of booting linux (from another resources) 
+w03-170301-21-LR-Review lecturer
+w03-170302-13-LR-Lecturer
+w03-170302-13-LR-Lecturer
+w03-170302-14-LR-Lecturer
+w03-170302-21-PS-learn pointer
+w03-170303-18-PS-Do OS Lab
+w03-170303-18-DS-Discussion about OS Lab
